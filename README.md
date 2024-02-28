@@ -1,3 +1,3 @@
 # backgroundChanger
 
-https://background-changer-8cfc38.netlify.app/
+https://bg-color-changer-5c0db3.netlify.app
